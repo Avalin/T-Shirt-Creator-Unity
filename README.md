@@ -10,7 +10,7 @@ Works with Unity 2020.1.8f1.
 ## Download and Installation
 To get this project:
 
-* Clone the repo: `git clone https://github.com/Avalin/t_shirt_creator_kit.git`
+* Clone the repo: `git clone https://github.com/Avalin/unity_t_shirt_creator_kit.git`
 
 That's it.
 
