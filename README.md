@@ -1,6 +1,6 @@
 # T-Shirt Creator Kit
 <p align="center">
-  <img width="401" height="341" src="tshirtcreatorkit.png">
+  <img width="513" height="385" src="tshirtcreatorkit.png">
 </p>
 
 ## About
